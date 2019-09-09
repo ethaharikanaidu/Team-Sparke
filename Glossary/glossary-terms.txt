@@ -1,0 +1,76 @@
+AI
+Artificial Intelligence.
+term-ends
+Abstraction
+Removing detail of something to focus on a subset of the features without confusing details.
+term-ends
+Address
+A location in memory or identifying a particular piece of memory. An identification that allows access to something such as an internet address which allows one to access a device on the internet.
+term-ends
+Agent
+Independent acting sections of code and data that represent active interacting pieces of a model or system.
+term-ends
+Algorithm
+A set of instructions for accomplishing a task that when executed will terminate.
+term-ends
+Analog
+Measured in continuous values. The audio signal from a microphone is analog. A clock with hands is considered analog.
+term-ends
+Application
+A runnable program that provides some service.
+term-ends
+Argument
+One of the pieces of analog data provided as input to a procedure or function through the call to the procedure
+or function.
+term-ends
+Assignment
+This stores a value in a variable. An assignment statement has an assignment in it describing the
+storage of values in variables.
+term-ends
+Autonomous
+Controlled by computer programs and not people.
+term-ends
+Block
+A collection of statements that can be grouped together to be treated as one statement. For instance in C
+and Processing statements inside parentheses are treated as one statement that is either executed together or
+not. Generally the only \entry" into a block of code is at the top of the code.
+term-ends
+Boolean
+A type in many programming languages that can hold either a True or a False. The name comes from the
+mathematician George Boole. It can also refer to the type of expression for example the type of the expression
+x > 6 is Boolean.
+term-ends
+Boot
+To restart a computer as if the computer block had been powered down regardless of whether it was on and running
+or not.
+term-ends
+Broadcast
+In messaging passing it is to send the same message to all who can listen as opposed to peer-to-peer
+communication for instance.
+term-ends
+Byte
+8 bits. It is often denoted by a capital B as in MB (mega-bytes).
+term-ends
+Call
+A statement in a language that starts or invokes a procedure or function.
+term-ends
+CPU
+Central Processing Unit. Where the computer instructions are executed. It usually refers to the general
+purpose processor that handles a range of processing tasks.
+term-ends
+Cache
+Is memory used to call speed memory access, that stores data that is anticipated to be used next or was just
+used and may be used again. For example: cache may exist on slow physically rotating discs to save information
+of data that is near to the data just accessed or  to hold data without writing it to disc until it is likely not to
+change again.
+term-ends
+Card
+A circuit board which can be plugged into your computer motherboard.
+term-ends
+Character
+A single letter or symbol that is represented by a small set of bytes in the computer. See ASCII and
+Unicode
+term-ends
+Chip
+A integrated electronic CPU circuit generally with from thousands to billions of components such as transistors
+and capacitors that perform complex functionality such as addressable memory, CPU, I/O functions.
